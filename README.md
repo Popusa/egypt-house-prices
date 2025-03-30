@@ -1,2 +1,2 @@
 # egypt-house-prices
-A project done in SQL, and Power BI to help me find out if I will be homeless in the next 5 years, or if there is still hope...
+A project done in SQL, and Power BI to demonstrate the power of combining both tools to produce a dashboard, with KPIs that provide value to me, and other Egyptian youth.
