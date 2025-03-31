@@ -1,0 +1,9 @@
+1. I need to know the cheapest prices by furnishing, and city.
+
+2. What would be a suitable place for a young man, without that much money, who wants something cheap, furnished, and near their workplace (ex: Nasr City)
+
+3. What is the most expensive city to live in?
+
+4. Which unit has the best price:area ratio?
+
+5. What are the cheapest possible options for a furnished apartment in New Cairo?
