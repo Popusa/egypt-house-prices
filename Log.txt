@@ -1,1 +1,14 @@
-1. Drafted Questions
+1. Drafted Questions.
+
+2. Cleaned Data in Excel by Removing Duplicates.
+
+3. Filled Blanks manually by calculating averages of similar rows, or of all rows in general cases.
+
+4. Removed Blanks that could not be filled.
+
+5. Filled Blanks for essential columns with "Unknown".
+
+6. Added new Columns that would be beneficial to use in visualizations.
+
+7. Fixed issue with data entry error in City Column (some rows were filled, others removed, but most were set to unknowns)
+

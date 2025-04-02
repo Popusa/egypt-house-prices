@@ -1,4 +1,4 @@
-1. I need to know the cheapest prices by furnishing, and city.
+1. What are the cheapest units by furnishing, and city?
 
 2. What would be a suitable place for a young man, without that much money, who wants something cheap, furnished, and near their workplace (ex: Nasr City)
 
